@@ -43,7 +43,7 @@ Below is a list of projects included in this repository:
 7. **Menu**
    - Description: A Restaurant website showing menu items and these items can be griuped in differnt categories.
    - Technologies Used: JavaScript, HTML, CSS
-   - 
+   
 8. **Video**
    - Description: A fun project having a video as a background which can be paused by using a button.
    - Technologies Used: JavaScript, HTML, CSS
@@ -53,16 +53,16 @@ Below is a list of projects included in this repository:
    - Technologies Used: JavaScript, HTML, CSS
    
 10. **Smooth Scrolling Website**
-   - Description: A navbar is created which is used to navigate to different section of website smoothly.
-   - Technologies Used: JavaScript, HTML, CSS
+    - Description: A navbar is created which is used to navigate to different section of website smoothly.
+    - Technologies Used: JavaScript, HTML, CSS
 
 11. **Dice Rolling Game**
-   - Description: A fun game which asks you to throw your desired number of dices and each dice is random.
-   - Technologies Used: JavaScript, HTML, CSS
+    - Description: A fun game which asks you to throw your desired number of dices and each dice is random.
+    - Technologies Used: JavaScript, HTML, CSS
    
 12. **StopWatch**
-   - Description: A fully functional Stopwatch which is very accurate.
-   - Technologies Used: JavaScript, HTML, CSS
+    - Description: A fully functional Stopwatch which is very accurate.
+    - Technologies Used: JavaScript, HTML, CSS
 
 
 ## Usage
