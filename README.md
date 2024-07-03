@@ -7,8 +7,6 @@ Welcome to the repository of practice projects aimed at improving your skills in
 1. [Introduction](#introduction)
 2. [Projects List](#projects-list)
 3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Introduction
 
