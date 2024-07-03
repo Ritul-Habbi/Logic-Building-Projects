@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <div class="contaioner">
+      <h1>Dice Roller Game</h1>
+      <label for="numOfDice">How Many Dices</label>
+      <input id="numOfDice" type="number"  min="1" max="20" placeholder="1" />
+      <button onclick="rollDice()" class="btn">Get Dices</button>
+      <div id="diceResult"></div>
+      <div id="diceImages"></div>
+    </div>
+  </body>
+</html>
