@@ -41,6 +41,31 @@ Below is a list of projects included in this repository:
 6. **Questions**
    - Description: An Accordion style list of questions which shows answer when clicked upon.
    - Technologies Used: JavaScript, HTML, CSS
+   
+7. **Menu**
+   - Description: A Restaurant website showing menu items and these items can be griuped in differnt categories.
+   - Technologies Used: JavaScript, HTML, CSS
+   - 
+8. **Video**
+   - Description: A fun project having a video as a background which can be paused by using a button.
+   - Technologies Used: JavaScript, HTML, CSS
+   
+9. **Tags**
+   - Description: It is a Component which shows diffent aspects of one component.
+   - Technologies Used: JavaScript, HTML, CSS
+   
+10. **Smooth Scrolling Website**
+   - Description: A navbar is created which is used to navigate to different section of website smoothly.
+   - Technologies Used: JavaScript, HTML, CSS
+
+11. **Dice Rolling Game**
+   - Description: A fun game which asks you to throw your desired number of dices and each dice is random.
+   - Technologies Used: JavaScript, HTML, CSS
+   
+12. **StopWatch**
+   - Description: A fully functional Stopwatch which is very accurate.
+   - Technologies Used: JavaScript, HTML, CSS
+
 
 ## Usage
 
@@ -48,7 +73,7 @@ To use these projects, follow these steps:
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/your-username/practice-projects.git
+   git clone https://github.com/Ritul-Habbi/Logic-Building-Projects
    ```
 
 2. **Navigate to the project folder:**
@@ -60,20 +85,4 @@ To use these projects, follow these steps:
 
 4. **For each project, refer to its README file for specific instructions on setup and usage.**
 
-## Contributing
 
-Contributions are welcome! If you'd like to add your own projects or improve existing ones, feel free to fork this repository, make your changes, and submit a pull request.
-
-1. Fork the repository (`git clone https://github.com/your-username/practice-projects.git`).
-2. Create your feature branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
-
----
-
-Feel free to customize the sections and details based on your specific projects and preferences. This structure should help organize and guide users through your practice projects effectively.
